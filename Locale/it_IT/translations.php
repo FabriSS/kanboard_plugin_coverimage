@@ -1,14 +1,14 @@
 <?php
 
 return array(
-    //'Coverimage' => '',
-    //'Uploaded: %s' => '',
-    //'Size: %s' => '',
-    //'Uploaded by %s' => '',
-    //'Download' => '',
-    //'Remove' => '',
-    //'Set as coverimage' => '',
-    //'Remove coverimage' => '',
-    //'Coverimage set.' => '',
-    //'Coverimage removed.' => '',
+    //'Coverimage' => 'Copertina',
+    //'Uploaded: %s' => 'Caricato: %s',
+    //'Size: %s' => 'Dimensione: %s',
+    //'Uploaded by %s' => 'Caricato da %s',
+    //'Download' => 'Scarica',
+    //'Remove' => 'Rimuovi',
+    //'Set as coverimage' => 'Imposta come copertina',
+    //'Remove coverimage' => 'Rimuovi copertina',
+    //'Coverimage set.' => 'Copertina impostata.',
+    //'Coverimage removed.' => 'Copertina rimossa.',
 );
